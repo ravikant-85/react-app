@@ -10,7 +10,7 @@
 
 # production
 # Remove '/build' from the ignore list to include the 'build' directory
-#/build
+/build
 
 # misc
 .DS_Store
