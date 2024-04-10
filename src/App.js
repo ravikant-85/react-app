@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> HELLO RAVIKANT WELCOME TO MOBZWAY AGAIN......ravikant....
-
         </p>
         <a
           className="App-link"
@@ -22,5 +21,5 @@ function App() {
     </div>
   );
 }
-
+ravikant
 export default App;
