@@ -21,5 +21,5 @@ function App() {
     </div>
   );
 }
-ravikant2
+
 export default App;
