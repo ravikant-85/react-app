@@ -21,5 +21,4 @@ function App() {
     </div>
   );
 }
-ravikant7
 export default App;
