@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> HELLO RAVIKANT WELCOME TO MOBZWAY AGAIN......ravikant....
+          Edit <code>src/App.js</code> HELLO RAVIKANT WELCOME TO MOBZWAY AGAIN......ravikantmathur
         </p>
         <a
           className="App-link"
@@ -21,5 +21,5 @@ function App() {
     </div>
   );
 }
-ravikant
+ravikant1
 export default App;
