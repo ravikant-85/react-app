@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React app1
+          Learn React app7
         </a>
       </header>
     </div>
   );
 }
-ravikant2
+
 export default App;
