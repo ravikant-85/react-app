@@ -13,6 +13,7 @@
 # Remove '/build' from the ignore list to include the 'build' directory
 /build
 
+
 # misc
 .DS_Store
 .env.local
